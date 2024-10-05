@@ -37,23 +37,31 @@ const CONFIG = {
           description:
             'Designed and Prototped mechanically compliant parapodia for polychaete worm model',
           imageUrl:
+            'https://drive.google.com/file/d/1UzE2v3b4YxqzbJJxnduuHhzqveqq6e7y/view?usp=sharing',
+          link: 'https://drive.google.com/file/d/1k_fPoyDxbmbfYmr4VABVprc5BJozVBGk/view?usp=sharing',
+        },
+        {
+          title: 'Senior Design: Inline-4 Motorcycle Engine',
+          description:
+            'Led a team of 10 students to prototype a fully-functioning Inline 4 Cyclinder Motorcycle. Worked on both thermodynamics and CAD design of the engine. Developed comprehensive Bill of Materials and manufacturing processes to fully manufacture engine and sell in the United States.',
+          imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
         },
         {
           title: 'DeWalt Innovation Project',
           description:
-            '',
+            'Led a group of 4 interns to create a new product innovation on existing DeWalt storage products. Developed a concept CAD model and theoretical electrical work to show proof of concept. Pitched product and its release plan to VP-level executives. Placed 4th out of 18 teams.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/DeWalt_Logo.svg/1200px-DeWalt_Logo.svg.png',
+          link: '',
         },
       ],
     },
   },
   seo: {
     title: 'Portfolio of Humzah Durrani',
-    description: '',
+    description: 'Aspiring Electro-Mechanical Engineer. Looking to develop products from cradle to grave. Take a look at my portfolio website and enjoy!',
     imageURL: 'https://drive.google.com/file/d/1SVLEhfhKqTM2BIjIRThksqu2i6h4HZqN/view?usp=sharing',
   },
   social: {
