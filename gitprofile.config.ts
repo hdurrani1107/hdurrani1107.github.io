@@ -35,7 +35,7 @@ const CONFIG = {
         {
           title: 'Polychaete Worm Model',
           description:
-            'Designed and Prototped mechanically compliant parapodia for polychaete worm model',
+            'Designed and Prototped mechanically compliant parapodia for polychaete worm model. Utilizing PLA and PETG to leverage different material properties to achieve high durability and build quality.',
           imageUrl:
             'https://drive.google.com/file/d/1UzE2v3b4YxqzbJJxnduuHhzqveqq6e7y/view?usp=sharing',
           link: 'https://drive.google.com/file/d/1k_fPoyDxbmbfYmr4VABVprc5BJozVBGk/view?usp=sharing',
@@ -43,18 +43,18 @@ const CONFIG = {
         {
           title: 'Senior Design: Inline-4 Motorcycle Engine',
           description:
-            'Led a team of 10 students to prototype a fully-functioning Inline 4 Cyclinder Motorcycle. Worked on both thermodynamics and CAD design of the engine. Developed comprehensive Bill of Materials and manufacturing processes to fully manufacture engine and sell in the United States.',
+            'Led a team of 10 students to prototype a fully-functioning Inline 4 Cyclinder Motorcycle. Worked on both thermodynamics and CAD design of the engine. Developed comprehensive Bill of Materials and manufacturing processes to fully manufacture engine and sell in the United States. (Status: Complete)',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://drive.google.com/file/d/1R9pN_NC9Q2rqiYV6LLuheMeY6jJkBTtT/view?usp=sharing',
+          link: 'https://drive.google.com/file/d/1O6pltWA2agbYY9n4lLr_g6botiDCFGPJ/view?usp=sharing',
         },
         {
           title: 'DeWalt Innovation Project',
           description:
-            'Led a group of 4 interns to create a new product innovation on existing DeWalt storage products. Developed a concept CAD model and theoretical electrical work to show proof of concept. Pitched product and its release plan to VP-level executives. Placed 4th out of 18 teams.',
+            'Led a group of 4 interns to create a new product innovation on existing DeWalt storage products. Developed a concept CAD model and theoretical electrical work to show proof of concept. Pitched product and its release plan to VP-level executives. Placed 4th out of 18 teams. (Status: Complete)',
           imageUrl:
             'https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/DeWalt_Logo.svg/1200px-DeWalt_Logo.svg.png',
-          link: '',
+          //link: '',
         },
       ],
     },
