@@ -95,8 +95,7 @@ const CONFIG = {
     'HTML',
     'Certified Solidworks Professional',
     'Microsoft Suite',
-    'Prototyping',
-    'Driven',
+    'Prototyping,
   ],
   experiences: [
     {
