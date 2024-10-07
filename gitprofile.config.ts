@@ -53,7 +53,7 @@ const CONFIG = {
           description:
             'Led a group of 4 interns to create a new product innovation on existing DeWalt storage products. Developed a concept CAD model and theoretical electrical work to show proof of concept. Pitched product and its release plan to VP-level executives. Placed 4th out of 18 teams. (Status: Complete)',
           imageUrl:
-            'https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/DeWalt_Logo.svg/1200px-DeWalt_Logo.svg.png',
+            'https://bynder.sbdinc.com/m/40278b3efb2d1d0a/Drupal_Large-DW_dewalt-category-fallbackat2x_GEB1.jpg',
           link: 'https://www.stanleyblackanddecker.com/',
         },
       ],
