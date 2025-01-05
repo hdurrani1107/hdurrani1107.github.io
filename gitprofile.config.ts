@@ -143,12 +143,14 @@ const CONFIG = {
       degree: 'M.S. Robotics and Autonomous Systems',
       from: 'September 2024',
       to: 'Tentative: May 2025',
+      GPA: '3.8/4.0',
     },
     {
       institution: 'Case Western Reserve University',
       degree: 'B.S. Mechanical Engineering',
       from: '2019',
       to: '2024',
+      GPA: '3.5/4.0',
     },
   ],
   publications: [
