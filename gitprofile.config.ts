@@ -56,6 +56,14 @@ const CONFIG = {
             'https://bynder.sbdinc.com/m/40278b3efb2d1d0a/Drupal_Large-DW_dewalt-category-fallbackat2x_GEB1.jpg',
           link: 'https://www.stanleyblackanddecker.com/',
         },
+        {
+          title: 'Capabot Exploration UGV',
+          description:
+            'Developed an unmanned ground vehicle that explores and maps unknown environments. Utilizing Lidar sensing technology, an exploration machine learning algorithm was created, in which it takes the sensing data and calculates in next path. All the data is then converted using Hector SLAM to create a real time map and path of the UGV as it explores. Geared towards exploring manufacturing environments, the UGV will continuous explore the environment and capture environmental updates to continuously capture floor plan changes. (Status: Complete)',
+          imageUrl:
+            'https://adityakamath.github.io/assets/img/akros_hector_map.jpg',
+          link: 'https://drive.google.com/file/d/1-UxL3jCrqFQl_XgQpoyHQ7VCyBw4xXE4/view?usp=sharing',
+        },
       ],
     },
   },
@@ -118,7 +126,7 @@ const CONFIG = {
       name: 'Certified Solidworks Professional',
       body: '',
       year: 'December 2023',
-      link: 'https://example.com',
+      link: '',
     },
   ],
   educations: [
