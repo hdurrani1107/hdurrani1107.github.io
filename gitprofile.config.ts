@@ -35,7 +35,7 @@ const CONFIG = {
         {
           title: 'Polychaete Worm Model',
           description:
-            'Designed and Prototped mechanically compliant parapodia for polychaete worm model. Utilizing PLA and PETG to leverage different material properties to achieve high durability and build quality.',
+            'Designed and Prototped mechanically compliant parapodia for polychaete worm model. Utilizing PLA and PETG to leverage different material properties to achieve high durability and build quality. (Status: Complete)',
           imageUrl:
             'https://drive.google.com/file/d/1UzE2v3b4YxqzbJJxnduuHhzqveqq6e7y/view?usp=sharing',
           link: 'https://drive.google.com/file/d/1k_fPoyDxbmbfYmr4VABVprc5BJozVBGk/view?usp=sharing',
@@ -63,6 +63,14 @@ const CONFIG = {
           imageUrl:
             'https://adityakamath.github.io/assets/img/akros_hector_map.jpg',
           link: 'https://drive.google.com/file/d/1-UxL3jCrqFQl_XgQpoyHQ7VCyBw4xXE4/view?usp=sharing',
+        },
+        {
+          title: 'Python Chess Engine',
+          description:
+            'Developed a chess engine, using a minimax depth search with alpha-beta pruning to improve model efficiency. Chess engine can be played against in the command prompt as well as play against other chess engines. Currently, working on a user interface and efficiency. See DBS_Repo for chess engine. (Status: In Progress)',
+          imageUrl:
+            'https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/CHESScom/phphK5JVu.png',
+          link: 'https://www.chess.com/home',
         },
       ],
     },
