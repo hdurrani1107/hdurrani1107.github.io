@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'Designed and Prototped mechanically compliant parapodia for polychaete worm model. Utilizing PLA and PETG to leverage different material properties to achieve high durability and build quality. (Status: Complete)',
           imageUrl:
-            'https://drive.google.com/file/d/1UzE2v3b4YxqzbJJxnduuHhzqveqq6e7y/view?usp=sharing',
+            'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Phyllodoce_rosea.jpg/220px-Phyllodoce_rosea.jpg',
           link: 'https://drive.google.com/file/d/1k_fPoyDxbmbfYmr4VABVprc5BJozVBGk/view?usp=sharing',
         },
         {
@@ -45,7 +45,7 @@ const CONFIG = {
           description:
             'Led a team of 10 students to prototype a fully-functioning Inline 4 Cyclinder Motorcycle. Worked on both thermodynamics and CAD design of the engine. Developed comprehensive Bill of Materials and manufacturing processes to fully manufacture engine and sell in the United States. (Status: Complete)',
           imageUrl:
-            'https://drive.google.com/file/d/1R9pN_NC9Q2rqiYV6LLuheMeY6jJkBTtT/view?usp=sharing',
+            'https://dsuj2mkiosyd2.cloudfront.net/fusion-360/160325/543/12dba6f7/raasrendering-744f0caf-1fad-492f-b0aa-427ba903a2ab.jpg?t=1486634197',
           link: 'https://drive.google.com/file/d/1O6pltWA2agbYY9n4lLr_g6botiDCFGPJ/view?usp=sharing',
         },
         {
